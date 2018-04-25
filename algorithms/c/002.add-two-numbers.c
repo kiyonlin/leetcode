@@ -48,15 +48,22 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2)
             cur = cur->next;
         }
 
-        int v1 = l1 == NULL ? 0 : l1->val;
-        int v2 = l2 == NULL ? 0 : l2->val;
-        int value = (v1 + v2 + hold) % 10;
-        cur->val = value;
-        cur->next = NULL;
+        cur->val += hold;
 
-        hold = (v1 + v2 + hold) / 10;
-        l1 = l1 == NULL ? NULL : l1->next;
-        l2 = l2 == NULL ? NULL : l2->next;
+        if (l1 != NULL) {
+            cur->val += l1->val;
+            l1 = l1->next;
+        }
+
+        if (l2 != NULL) {
+            cur->val += l2->val;
+            l2 = l2->next;
+        }
+
+        hold = cur->val / 10;
+
+        cur->val %= 10;
+        cur->next = NULL;
     }
     return result;
 }
