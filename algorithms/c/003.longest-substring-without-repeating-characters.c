@@ -32,14 +32,10 @@ int lengthOfLongestSubstring(char* s)
     for (i = 0; i < len; i++) {
         hit[s[i]] = 1;
         for (j = i + 1; j < len; j++) {
-            if (hit[s[j]] == 0) {
+            if (hit[s[j]] == 0)
                 hit[s[j]] = 1;
-            } else {
-                if (j - i > maxLength) {
-                    maxLength = j - i;
-                }
+            else
                 break;
-            }
         }
         if (j - i > maxLength) {
             maxLength = j - i;
