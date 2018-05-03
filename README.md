@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[C](./algorithms/c/020.valid-parentheses.c)|Easy|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[C](./algorithms/c/014.longest-common-prefix.c)|Easy|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[C](./algorithms/c/013.roman-to-integer.c)|Easy|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[C](./algorithms/c/012.integer-to-roman.c)|Medium|
