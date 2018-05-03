@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](./algorithms/c/035.search-insert-position.c)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C](./algorithms/c/028.implement-strstr.c)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[C](./algorithms/c/027.remove-element.c)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C](./algorithms/c/026.remove-duplicates-from-sorted-array.c)|Easy|
