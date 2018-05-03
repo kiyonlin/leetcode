@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|027|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[C](./algorithms/c/027.remove-element.c)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C](./algorithms/c/026.remove-duplicates-from-sorted-array.c)|Easy|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C](./algorithms/c/021.merge-two-sorted-lists.c)|Easy|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[C](./algorithms/c/020.valid-parentheses.c)|Easy|
