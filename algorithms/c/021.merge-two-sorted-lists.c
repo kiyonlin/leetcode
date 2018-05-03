@@ -29,6 +29,8 @@
 // 画图可以理顺思路
 struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2)
 {
+    if (l1 == NULL && l2 == NULL)
+        return NULL;
     struct ListNode* node = (struct ListNode*)malloc(sizeof(struct ListNode));
     struct ListNode* root = node;
     while (l1 != NULL || l2 != NULL) {
