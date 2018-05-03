@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C](./algorithms/c/021.merge-two-sorted-lists.c)|Easy|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[C](./algorithms/c/020.valid-parentheses.c)|Easy|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[C](./algorithms/c/014.longest-common-prefix.c)|Easy|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[C](./algorithms/c/013.roman-to-integer.c)|Easy|
