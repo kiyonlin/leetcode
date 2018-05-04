@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[C](./algorithms/c/070.climbing-stairs.c)|Easy|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C](./algorithms/c/069.sqrtx.c)|Easy|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C](./algorithms/c/067.add-binary.c)|Easy|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|[C](./algorithms/c/066.plus-one.c)|Easy|
