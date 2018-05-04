@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[C](./algorithms/c/104.maximum-depth-of-binary-tree.c)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[C](./algorithms/c/101.symmetric-tree.c)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[C](./algorithms/c/100.same-tree.c)|Easy|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[C](./algorithms/c/088.merge-sorted-array.c)|Easy|
