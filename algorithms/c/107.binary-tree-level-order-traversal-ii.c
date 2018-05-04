@@ -47,35 +47,49 @@
  * The sizes of the arrays are returned as *columnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
-int depth(struct TreeNode* root)
+void init(struct TreeNode* root, int** columnSizes, int* returnSize, int depth, int*** result)
 {
-    int left, right, max;
-    if (root) {
-        left = depth(root->left);
-        right = depth(root->right);
-        max = left > right ? left : right;
-        return max + 1;
+    if (!root)
+        return;
+
+    // 到达了新的深度
+    if (*returnSize < depth + 1) {
+        *returnSize = depth + 1;
+
+        // 初始化
+        (*result) = realloc((*result), (depth + 1) * sizeof(int*));
+        (*result)[depth] = NULL;
+
+        *columnSizes = realloc(*columnSizes, (depth + 1) * sizeof(int));
+        (*columnSizes)[depth] = 0;
     }
-    return 0;
+
+    init(root->left, columnSizes, returnSize, depth + 1, result);
+    init(root->right, columnSizes, returnSize, depth + 1, result);
 }
 
-int** traversal(struct TreeNode* root, int** columnSizes, int* returnSize, int depth, int*** result)
+void traversal(struct TreeNode* root, int** columnSizes, int* returnSize, int depth, int*** result)
 {
     if (!root)
         return;
     traversal(root->left, columnSizes, returnSize, depth + 1, result);
     traversal(root->right, columnSizes, returnSize, depth + 1, result);
+
+    int i = *returnSize - depth - 1;
+    (*result)[i] = realloc((*result)[i], ((*columnSizes)[i] + 1) * sizeof(int));
+    (*result)[i][(*columnSizes)[i]] = root->val;
+    ++(*columnSizes)[i];
 }
 
 int** levelOrderBottom(struct TreeNode* root, int** columnSizes, int* returnSize)
 {
     int** result;
     result = NULL;
-
+    *returnSize = 0;
     // 获取🌲的深度
-    *returnSize = depth(root);
+    init(root, columnSizes, returnSize, 0, &result);
     // 根据深度输出 左-右-中
-    traversal(root, columnSizes, returnSize, 1, &result);
+    traversal(root, columnSizes, returnSize, 0, &result);
 
     return result;
 }
