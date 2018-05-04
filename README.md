@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C](./algorithms/c/058.length-of-last-word.c)|Easy|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C](./algorithms/c/038.count-and-say.c)|Easy|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](./algorithms/c/035.search-insert-position.c)|Easy|
