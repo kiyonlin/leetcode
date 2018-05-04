@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C](./algorithms/c/083.remove-duplicates-from-sorted-list.c)|Easy|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[C](./algorithms/c/070.climbing-stairs.c)|Easy|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C](./algorithms/c/069.sqrtx.c)|Easy|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C](./algorithms/c/067.add-binary.c)|Easy|
