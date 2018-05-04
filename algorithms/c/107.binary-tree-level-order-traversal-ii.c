@@ -86,7 +86,7 @@ int** levelOrderBottom(struct TreeNode* root, int** columnSizes, int* returnSize
     int** result;
     result = NULL;
     *returnSize = 0;
-    // 获取🌲的深度
+    // 获取树的深度
     init(root, columnSizes, returnSize, 0, &result);
     // 根据深度输出 左-右-中
     traversal(root, columnSizes, returnSize, 0, &result);
