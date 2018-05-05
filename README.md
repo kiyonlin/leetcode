@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|112|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[C](./algorithms/c/112.minimum-depth-of-binary-tree.c)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[C](./algorithms/c/111.minimum-depth-of-binary-tree.c)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[C](./algorithms/c/110.balanced-binary-tree.c)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C](./algorithms/c/107.binary-tree-level-order-traversal-ii.c),[Golang](./algorithms/golang/107.binary-tree-level-order-traversal-ii.go)|Easy|
