@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[C](./algorithms/c/171.excel-sheet-column-number.c)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[C](./algorithms/c/169.majority-element.c)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[C](./algorithms/c/168.excel-sheet-column-title.c)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C](./algorithms/c/167.two-sum-ii-input-array-is-sorted.c)|Easy|
