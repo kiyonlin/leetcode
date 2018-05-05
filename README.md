@@ -57,4 +57,5 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|176|[Second Highest Salarys](https://leetcode.com/problems/second-highest-salary/description/)|[Mysql](./sql/mysql/176.second-highest-salary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[Mysql](./sql/mysql/175.combine-two-tables.sql)|Easy|
