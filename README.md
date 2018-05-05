@@ -52,3 +52,9 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C](./algorithms/c/003.longest-substring-without-repeating-characters.c)|Medium|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[C](./algorithms/c/002.add-two-numbers.c),[Golang](./algorithms/golang/002.add-two-numbers.go)|Easy|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C](./algorithms/c/001.two-sum.c)|Easy|
+
+## SQL
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[Mysql](./sql/mysql/175.combine-two-tables.sql)|Easy|
