@@ -55,5 +55,5 @@ char* convertToTitle(int n)
         result[--len] = --n % 26 + 'A';
         n /= 26;
     }
-    return result;
+    return result[len];
 }
