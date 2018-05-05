@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C](./algorithms/c/172.factorial-trailing-zeroes.c)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[C](./algorithms/c/171.excel-sheet-column-number.c)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[C](./algorithms/c/169.majority-element.c)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[C](./algorithms/c/168.excel-sheet-column-title.c)|Easy|
