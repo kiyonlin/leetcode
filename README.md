@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C](./algorithms/c/160.intersection-of-two-linked-lists.c)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[C](./algorithms/c/155.min-stack.c)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[C](./algorithms/c/141.linked-list-cycle.c)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C](./algorithms/c/136.single-number.c)|Easy|
