@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[C](./algorithms/c/118.pascals-triangle.c)|Easy|
 |112|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[C](./algorithms/c/112.minimum-depth-of-binary-tree.c)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[C](./algorithms/c/111.minimum-depth-of-binary-tree.c)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[C](./algorithms/c/110.balanced-binary-tree.c)|Easy|
