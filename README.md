@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[C](./algorithms/c/169.majority-element.c)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[C](./algorithms/c/168.excel-sheet-column-title.c)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C](./algorithms/c/167.two-sum-ii-input-array-is-sorted.c)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C](./algorithms/c/160.intersection-of-two-linked-lists.c)|Easy|
