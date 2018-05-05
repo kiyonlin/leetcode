@@ -6,6 +6,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[C](./algorithms/c/155.min-stack.c)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C](./algorithms/c/136.single-number.c)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C](./algorithms/c/125.valid-palindrome.c)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[C](./algorithms/c/122.best-time-to-buy-and-sell-stock-ii.c)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C](./algorithms/c/121.best-time-to-buy-and-sell-stock.c)|Easy|
