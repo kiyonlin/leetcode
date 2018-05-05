@@ -49,11 +49,20 @@
  */
 char* convertToTitle(int n)
 {
-    char result[8] = { 0 };
-    int len = 7;
+    char* result = malloc(sizeof(char));
+    int len = 1;
     while (n) {
-        result[--len] = --n % 26 + 'A';
+        result[len - 1] = --n % 26 + 'A';
+        result = realloc(result, (++len) * sizeof(char));
         n /= 26;
     }
-    return result[len];
+    result[len - 1] = '\0';
+    int i = 0, j = len - 2;
+    while (i < j) {
+        result[i] = result[i] ^ result[j];
+        result[j] = result[i] ^ result[j];
+        result[i] = result[i] ^ result[j];
+        i++, j--;
+    }
+    return result;
 }
