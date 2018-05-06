@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)|[C](./algorithms/c/190.reverse-bits.c)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[C](./algorithms/c/189.rotate-array.c)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C](./algorithms/c/172.factorial-trailing-zeroes.c)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[C](./algorithms/c/171.excel-sheet-column-number.c)|Easy|
