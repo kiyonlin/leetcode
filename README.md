@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[C](./algorithms/c/202.happy-number.c)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[C](./algorithms/c/198.house-robber.c)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)|[C](./algorithms/c/191.number-of-1-bits.c)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[C](./algorithms/c/189.rotate-array.c)|Easy|
