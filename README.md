@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[C](./algorithms/c/205.isomorphic-strings.c)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|[C](./algorithms/c/204.count-primes.c)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C](./algorithms/c/203.remove-linked-list-elements.c)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[C](./algorithms/c/202.happy-number.c)|Easy|
