@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[C](./algorithms/c/231.power-of-two.c)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[C](./algorithms/c/226.invert-binary-tree.c)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C](./algorithms/c/219.contains-duplicate-ii.c)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[C](./algorithms/c/217.contains-duplicate.c)|Easy|
