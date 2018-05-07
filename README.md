@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C](./algorithms/c/219.contains-duplicate-ii.c)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[C](./algorithms/c/217.contains-duplicate.c)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[C](./algorithms/c/206.reverse-linked-list.c)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[C](./algorithms/c/205.isomorphic-strings.c)|Easy|
