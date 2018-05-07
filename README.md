@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[C](./algorithms/c/258.add-digits.c)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|[C](./algorithms/c/257.binary-tree-paths.c)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[C](./algorithms/c/242.valid-anagram.c)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[C](./algorithms/c/237.delete-node-in-a-linked-list.c)|Easy|
