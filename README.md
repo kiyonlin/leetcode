@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[C](./algorithms/c/278.first-bad-version.c)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[C](./algorithms/c/268.missing-number.c)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C](./algorithms/c/263.ugly-number.c)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[C](./algorithms/c/258.add-digits.c)|Easy|
