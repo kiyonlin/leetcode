@@ -29,6 +29,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
+// 参考：https://en.wikipedia.org/wiki/Digital_root
 int addDigits(int num)
 {
     return 1 + (num - 1) % 9;
