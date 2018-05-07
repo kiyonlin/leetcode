@@ -33,21 +33,26 @@ struct ListNode* removeElements(struct ListNode* head, int val)
 {
     if (!head)
         return NULL;
-    struct ListNode* node = head;
-    struct ListNode* pre = head;
-    while (node) {
-        if (node->val == val) {
-            struct ListNode* temp = node;
-            node = node->next;
-            // 假如删除了头节点，那么头节点后移
-            if (temp == head) {
-                head = node;
-                pre = head;
-            }
-        } else {
-            pre = node;
-            node = node->next;
-        }
-    }
-    return head;
+    head->next = removeElements(head->next, val);
+    return head->val == val ? head->next : head;
+    // struct ListNode* node = head;
+    // struct ListNode* pre = NULL;
+    // while (node) {
+    //     if (node->val == val) {
+    //         struct ListNode* temp = node;
+    //         node = node->next;
+    //         // 假如删除了头节点，那么头节点后移
+    //         if (temp == head) {
+    //             head = node;
+    //         } else {
+    //             pre->next = node;
+    //         }
+    //         // free不会影响结果，会影响执行速度
+    //         free(temp);
+    //     } else {
+    //         pre = node;
+    //         node = node->next;
+    //     }
+    // }
+    // return head;
 }

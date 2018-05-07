@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C](./algorithms/c/203.remove-linked-list-elements.c)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[C](./algorithms/c/202.happy-number.c)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[C](./algorithms/c/198.house-robber.c)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)|[C](./algorithms/c/191.number-of-1-bits.c)|Easy|
