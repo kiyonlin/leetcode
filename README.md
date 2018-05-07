@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[C](./algorithms/c/234.palindrome-linked-list.c)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[C](./algorithms/c/231.power-of-two.c)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[C](./algorithms/c/226.invert-binary-tree.c)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C](./algorithms/c/219.contains-duplicate-ii.c)|Easy|
