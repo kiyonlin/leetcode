@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[C](./algorithms/c/242.valid-anagram.c)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[C](./algorithms/c/237.delete-node-in-a-linked-list.c)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[C](./algorithms/c/235.lowest-common-ancestor-of-a-binary-search-tree.c)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[C](./algorithms/c/234.palindrome-linked-list.c)|Easy|
