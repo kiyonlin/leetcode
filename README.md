@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C](./algorithms/c/349.intersection-of-two-arrays.c)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C](./algorithms/c/345.reverse-vowels-of-a-string.c)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[C](./algorithms/c/344.reverse-string.c)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[C](./algorithms/c/342.power-of-four.c)|Easy|
