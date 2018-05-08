@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[C](./algorithms/c/290.word-pattern.c)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[C](./algorithms/c/283.move-zeroes.c)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[C](./algorithms/c/278.first-bad-version.c)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[C](./algorithms/c/268.missing-number.c)|Easy|
