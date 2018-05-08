@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|[C](./algorithms/c/303.range-sum-query-immutable.c)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/)|[C](./algorithms/c/292.nim-game.c)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[C](./algorithms/c/290.word-pattern.c)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[C](./algorithms/c/283.move-zeroes.c)|Easy|
