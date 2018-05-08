@@ -48,21 +48,61 @@
  * 
  * 
  */
+struct Node {
+    char c;
+    struct Node* next;
+};
+
 char* removeKdigits(char* num, int k)
 {
-    while (k-- && *num) {
-        // 去掉前导0
-        while (*num == '0')
-            num++;
+    int len = strlen(num);
+    if (k >= len || len == 0)
+        return "0";
+    int j = len - k, i;
 
-        if (!*(num + 1) || *num >= *(num + 1)) {
-            num++;
+    struct Node* head = (struct Node*)malloc(sizeof(struct Node));
+    head->c = *num;
+    head->next = NULL;
+    for (i = 1; i < len && k > 0; i++) {
+        if (head && head->c > num[i]) {
+            while (head && head->c > num[i] && k > 0) {
+                struct Node* temp = head;
+                head = head->next;
+                free(temp);
+                k--;
+            }
+            struct Node* node = (struct Node*)malloc(sizeof(struct Node));
+            node->c = num[i];
+            node->next = head;
+            head = node;
         } else {
-            *(num + 1) = *num;
-            num++;
+            struct Node* node = (struct Node*)malloc(sizeof(struct Node));
+            node->c = num[i];
+            node->next = head;
+            head = node;
         }
     }
-    // 去掉前导0
+    while (i < len) {
+        struct Node* node = (struct Node*)malloc(sizeof(struct Node));
+        node->c = num[i++];
+        node->next = head;
+        head = node;
+    }
+    while (k > 0) {
+        struct Node* temp = head;
+        head = head->next;
+        free(temp);
+        k--;
+    }
+
+    num[j] = '\0';
+    while (head) {
+        struct Node* temp = head;
+        head = head->next;
+        num[--j] = temp->c;
+        free(temp);
+    }
+
     while (*num == '0')
         num++;
 

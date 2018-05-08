@@ -6,6 +6,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/349.assign-cookies.c)|Easy|
+|402|[Remove K Digitse](https://leetcode.com/problems/remove-k-digits/description/)|[C](./algorithms/c/402.remove-k-digits.c)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C](./algorithms/c/392.is-subsequence.c)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[C](./algorithms/c/376.wiggle-subsequence.c)|Medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C](./algorithms/c/349.intersection-of-two-arrays.c)|Easy|
