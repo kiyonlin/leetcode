@@ -67,7 +67,7 @@
 int cmp(void* aa, void* bb)
 {
     struct Interval* a = (struct Interval*)aa;
-    struct Interval* b = (struct Intervbl*)bb;
+    struct Interval* b = (struct Interval*)bb;
     return a->end - b->end;
 }
 
