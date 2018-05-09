@@ -5,7 +5,8 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/349.assign-cookies.c)|Easy|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)|[C](./algorithms/c/621.task-scheduler.c)|Medium|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
@@ -51,7 +52,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[C](./algorithms/c/155.min-stack.c)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[C](./algorithms/c/141.linked-list-cycle.c)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C](./algorithms/c/136.single-number.c)|Easy|
-|134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[C](./algorithms/c/134.gas-station.c)|Easy|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[C](./algorithms/c/134.gas-station.c)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C](./algorithms/c/125.valid-palindrome.c)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[C](./algorithms/c/122.best-time-to-buy-and-sell-stock-ii.c)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C](./algorithms/c/121.best-time-to-buy-and-sell-stock.c)|Easy|
@@ -89,7 +90,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[C](./algorithms/c/007.reverse-integer.c)|Easy|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[C](./algorithms/c/006.zigzag-conversion.c)|Medium|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C](./algorithms/c/003.longest-substring-without-repeating-characters.c)|Medium|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[C](./algorithms/c/002.add-two-numbers.c),[Golang](./algorithms/golang/002.add-two-numbers.go)|Easy|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[C](./algorithms/c/002.add-two-numbers.c),[Golang](./algorithms/golang/002.add-two-numbers.go)|Medium|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C](./algorithms/c/001.two-sum.c)|Easy|
 
 ## SQL
