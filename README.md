@@ -22,6 +22,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[C](./algorithms/c/344.reverse-string.c)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[C](./algorithms/c/342.power-of-four.c)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[C](./algorithms/c/326.power-of-three.c)|Easy|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[C](./algorithms/c/316.remove-duplicate-letters.c)|Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|[C](./algorithms/c/303.range-sum-query-immutable.c)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/)|[C](./algorithms/c/292.nim-game.c)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[C](./algorithms/c/290.word-pattern.c)|Easy|
