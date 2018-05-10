@@ -5,7 +5,8 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/349.assign-cookies.c)|Easy|
+|649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)|[C](./algorithms/c/649.dota2-senate.c)|Medium|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
