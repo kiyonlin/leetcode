@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[C](./algorithms/c/714.best-time-to-buy-and-sell-stock-with-transaction-fee.c)|Medium|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)|[C](./algorithms/c/659.split-array-into-consecutive-subsequences.c)|Medium|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)|[C](./algorithms/c/649.dota2-senate.c)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
