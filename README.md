@@ -78,6 +78,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C](./algorithms/c/058.length-of-last-word.c)|Easy|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C](./algorithms/c/055.jump-game.c)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
+|044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[C](./algorithms/c/044.wildcard-matching.c)|Hard|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C](./algorithms/c/038.count-and-say.c)|Easy|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](./algorithms/c/035.search-insert-position.c)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C](./algorithms/c/028.implement-strstr.c)|Easy|
