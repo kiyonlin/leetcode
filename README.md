@@ -5,7 +5,10 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)|[C](./algorithms/c/621.task-scheduler.c)|Medium|
+|738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|[C](./algorithms/c/738.monotone-increasing-digits.c)|Medium|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[C](./algorithms/c/714.best-time-to-buy-and-sell-stock-with-transaction-fee.c)|Medium|
+|659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)|[C](./algorithms/c/659.split-array-into-consecutive-subsequences.c)|Medium|
+|649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)|[C](./algorithms/c/649.dota2-senate.c)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
@@ -75,6 +78,8 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C](./algorithms/c/058.length-of-last-word.c)|Easy|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C](./algorithms/c/055.jump-game.c)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
+|045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C](./algorithms/c/045.jump-game-ii.c)|Hard|
+|044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[C](./algorithms/c/044.wildcard-matching.c)|Hard|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C](./algorithms/c/038.count-and-say.c)|Easy|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](./algorithms/c/035.search-insert-position.c)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C](./algorithms/c/028.implement-strstr.c)|Easy|
