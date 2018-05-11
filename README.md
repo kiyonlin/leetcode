@@ -82,6 +82,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C](./algorithms/c/069.sqrtx.c)|Easy|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C](./algorithms/c/067.add-binary.c)|Easy|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|[C](./algorithms/c/066.plus-one.c)|Easy|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C](./algorithms/c/062.unique-paths.c)|Easy|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C](./algorithms/c/058.length-of-last-word.c)|Easy|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C](./algorithms/c/055.jump-game.c)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
