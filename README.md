@@ -21,6 +21,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C](./algorithms/c/345.reverse-vowels-of-a-string.c)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[C](./algorithms/c/344.reverse-string.c)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[C](./algorithms/c/342.power-of-four.c)|Easy|
+|330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[C](./algorithms/c/330.patching-array.c)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[C](./algorithms/c/326.power-of-three.c)|Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[C](./algorithms/c/321.create-maximum-number.c)|Easy|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[C](./algorithms/c/316.remove-duplicate-letters.c)|Easy|
