@@ -78,6 +78,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[C](./algorithms/c/100.same-tree.c)|Easy|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[C](./algorithms/c/088.merge-sorted-array.c)|Easy|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C](./algorithms/c/083.remove-duplicates-from-sorted-list.c)|Easy|
+|072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|[C](./algorithms/c/072.edit-distance.c)|Easy|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[C](./algorithms/c/070.climbing-stairs.c)|Easy|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C](./algorithms/c/069.sqrtx.c)|Easy|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C](./algorithms/c/067.add-binary.c)|Easy|
