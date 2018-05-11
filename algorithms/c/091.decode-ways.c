@@ -39,14 +39,6 @@
  * 6).
  * 
  */
-inline bool decode(char a, char b)
-{
-    return (a == '1' && b >= '0' && b <= '9')
-        || (a == '2' && b >= '0' && b <= '6');
-}
-
-inline int max(int a, int b) { return a > b ? a : b; }
-
 int numDecodings(char* s)
 {
     int len = strlen(s);
@@ -55,7 +47,10 @@ int numDecodings(char* s)
     int* dp = (int*)malloc(sizeof(int) * (len + 1));
     dp[0] = 1, dp[1] = s[0] == '0' ? 0 : 1;
     for (int i = 1; i < len; i++) {
+        // s[i]不等于0时，s[i+1]可以直接解码，也就等于dp[i]
         dp[i + 1] = s[i] == '0' ? 0 : dp[i];
+        // s[i]等于0时，且s[i-1]和s[i]可以组合解码，则等于dp[i-1]
+        // 否则是无效编码（非1X或者20-26），无法解码
         dp[i + 1] += ((s[i - 1] == '1') || (s[i - 1] == '2' && s[i] < '7')) ? dp[i - 1] : 0;
     }
     return dp[len];
