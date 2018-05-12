@@ -52,12 +52,7 @@ struct TreeNode* makeNode(int);
 struct TreeNode* clone(struct TreeNode*);
 void printTree(struct TreeNode*);
 void freeTemp(struct TreeNode**, int);
-int cmp(void** aa, void** bb)
-{
-    struct TreeNode* a = *(struct TreeNode**)aa;
-    struct TreeNode* b = *(struct TreeNode**)bb;
-    return a->val - b->val;
-}
+
 struct TreeNode** generateTrees(int n, int* returnSize)
 {
     if (n == 0)
@@ -73,15 +68,13 @@ struct TreeNode** generateTrees(int n, int* returnSize)
         for (int j = 0; j < *returnSize; j++) {
             struct TreeNode* oldBST = result[j];
 
-            if (oldBST != NULL) {
-                struct TreeNode* node2 = oldBST;
-                while (node2->right != NULL)
-                    node2 = node2->right;
-                node2->right = makeNode(i);
-                temp = (struct TreeNode**)realloc(temp, sizeof(struct TreeNode*) * (++k));
-                temp[k - 1] = clone(oldBST);
-                node2->right = NULL;
+            // 新的根节点，老树作为左节点
+            struct TreeNode* newBST = makeNode(i);
+            newBST->left = clone(oldBST);
 
+            temp = (struct TreeNode**)realloc(temp, sizeof(struct TreeNode*) * (++k));
+            temp[k - 1] = newBST;
+            if (oldBST != NULL) {
                 struct TreeNode* node = oldBST;
                 while (node->right != NULL) {
                     struct TreeNode* newNode = makeNode(i);
@@ -95,21 +88,18 @@ struct TreeNode** generateTrees(int n, int* returnSize)
                     node->right = tempRight;
                     node = node->right;
                 }
+
+                node->right = makeNode(i);
+                temp = (struct TreeNode**)realloc(temp, sizeof(struct TreeNode*) * (++k));
+                temp[k - 1] = clone(oldBST);
+                node->right = NULL;
             }
-
-            // 新的根节点，老树作为左节点
-            struct TreeNode* newBST = makeNode(i);
-            newBST->left = clone(oldBST);
-
-            temp = (struct TreeNode**)realloc(temp, sizeof(struct TreeNode*) * (++k));
-            temp[k - 1] = newBST;
         }
         freeTemp(result, *returnSize);
         // 更新result
         *returnSize = k;
         result = temp;
     }
-    qsort(result, *returnSize, sizeof(struct TreeNode*), cmp);
     return result;
 }
 
@@ -126,6 +116,7 @@ void freeTemp(struct TreeNode** tree, int n)
 {
     for (int i = 0; i < n; i++)
         freeTree(tree[i]);
+    free(tree);
 }
 
 void printTree(struct TreeNode* root)
@@ -136,6 +127,7 @@ void printTree(struct TreeNode* root)
     printf("%d", root->val);
     printTree(root->right);
 }
+
 struct TreeNode* makeNode(int val)
 {
     struct TreeNode* node = (struct TreeNode*)malloc(sizeof(struct TreeNode));

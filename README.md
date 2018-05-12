@@ -77,6 +77,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[C](./algorithms/c/101.symmetric-tree.c)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[C](./algorithms/c/100.same-tree.c)|Easy|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[C](./algorithms/c/096.unique-binary-search-trees.c)|Medium|
+|095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[C](./algorithms/c/095.unique-binary-search-trees-ii.c)|Medium|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[C](./algorithms/c/091.decode-ways.c)|Medium|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[C](./algorithms/c/088.merge-sorted-array.c)|Easy|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C](./algorithms/c/083.remove-duplicates-from-sorted-list.c)|Easy|
