@@ -61,6 +61,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[C](./algorithms/c/155.min-stack.c)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[C](./algorithms/c/141.linked-list-cycle.c)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C](./algorithms/c/136.single-number.c)|Easy|
+|139|[Word Break](https://leetcode.com/problems/word-break/description/)|[C](./algorithms/c/139.word-break.c)|Easy|
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[C](./algorithms/c/135.candy.c)|Hard|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[C](./algorithms/c/134.gas-station.c)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[C](./algorithms/c/125.valid-palindrome.c)|Easy|
