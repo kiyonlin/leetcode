@@ -43,6 +43,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[C](./algorithms/c/234.palindrome-linked-list.c)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[C](./algorithms/c/231.power-of-two.c)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[C](./algorithms/c/226.invert-binary-tree.c)|Easy|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[C](./algorithms/c/221.maximal-square.c)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C](./algorithms/c/219.contains-duplicate-ii.c)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[C](./algorithms/c/217.contains-duplicate.c)|Easy|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|[C](./algorithms/c/213.house-robber-ii.c)|Medium|
