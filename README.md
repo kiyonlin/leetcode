@@ -59,6 +59,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C](./algorithms/c/167.two-sum-ii-input-array-is-sorted.c)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C](./algorithms/c/160.intersection-of-two-linked-lists.c)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[C](./algorithms/c/155.min-stack.c)|Easy|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C](./algorithms/c/152.maximum-product-subarray.c)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[C](./algorithms/c/141.linked-list-cycle.c)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C](./algorithms/c/136.single-number.c)|Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[C](./algorithms/c/139.word-break.c)|Easy|
