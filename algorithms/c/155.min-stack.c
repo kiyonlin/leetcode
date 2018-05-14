@@ -43,8 +43,10 @@
  */
 typedef struct {
     int top;
-    int min;
+    // 双 stack 实现 min-stack
     int* val;
+    // 每个 val 的min也保存下来
+    int* min;
 } MinStack;
 
 /** initialize your data structure here. */
@@ -54,30 +56,24 @@ MinStack* minStackCreate(int maxSize)
     if (!stack)
         return NULL;
     stack->top = 0;
-    stack->min = INT_MAX;
     stack->val = (int*)malloc(sizeof(int) * maxSize);
+    stack->min = (int*)malloc(sizeof(int) * maxSize);
     return stack;
 }
 
 void minStackPush(MinStack* obj, int x)
 {
-    if (x < obj->min)
-        obj->min = x;
-    return obj->val[obj->top++] = x;
+    if (obj->top == 0 || x < obj->min[obj->top - 1])
+        obj->min[obj->top] = x;
+    else
+        obj->min[obj->top] = obj->min[obj->top - 1];
+    obj->val[obj->top] = x;
+    obj->top++;
 }
 
 void minStackPop(MinStack* obj)
 {
     obj->top--;
-    // 删除了最小值，及时更新
-    if (obj->val[obj->top] == obj->min) {
-        obj->min = INT_MAX;
-        for (int i = 0; i < obj->top; i++) {
-            if (obj->val[i] < obj->min) {
-                obj->min = obj->val[i];
-            }
-        }
-    }
 }
 
 int minStackTop(MinStack* obj)
@@ -87,7 +83,7 @@ int minStackTop(MinStack* obj)
 
 int minStackGetMin(MinStack* obj)
 {
-    return obj->min;
+    return obj->min[obj->top - 1];
 }
 
 void minStackFree(MinStack* obj)
