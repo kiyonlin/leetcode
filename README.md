@@ -34,6 +34,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[C](./algorithms/c/283.move-zeroes.c)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[C](./algorithms/c/278.first-bad-version.c)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[C](./algorithms/c/268.missing-number.c)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)|[C](./algorithms/c/264.ugly-number-ii.c)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C](./algorithms/c/263.ugly-number.c)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[C](./algorithms/c/258.add-digits.c)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|[C](./algorithms/c/257.binary-tree-paths.c)|Easy|
