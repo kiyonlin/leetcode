@@ -23,6 +23,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C](./algorithms/c/345.reverse-vowels-of-a-string.c)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[C](./algorithms/c/344.reverse-string.c)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[C](./algorithms/c/342.power-of-four.c)|Easy|
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[C](./algorithms/c/337.house-robber-iii.c)|Hard|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[C](./algorithms/c/330.patching-array.c)|Hard|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[C](./algorithms/c/326.power-of-three.c)|Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[C](./algorithms/c/321.create-maximum-number.c)|Hard|
@@ -44,7 +45,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[C](./algorithms/c/226.invert-binary-tree.c)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C](./algorithms/c/219.contains-duplicate-ii.c)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[C](./algorithms/c/217.contains-duplicate.c)|Easy|
-|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|[C](./algorithms/c/213.house-robber-ii.c)|Easy|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|[C](./algorithms/c/213.house-robber-ii.c)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[C](./algorithms/c/206.reverse-linked-list.c)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[C](./algorithms/c/205.isomorphic-strings.c)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|[C](./algorithms/c/204.count-primes.c)|Easy|
