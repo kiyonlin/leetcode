@@ -19,6 +19,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |402|[Remove K Digitse](https://leetcode.com/problems/remove-k-digits/description/)|[C](./algorithms/c/402.remove-k-digits.c)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C](./algorithms/c/392.is-subsequence.c)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[C](./algorithms/c/376.wiggle-subsequence.c)|Medium|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|[C](./algorithms/c/357.count-numbers-with-unique-digits.c)|Medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C](./algorithms/c/349.intersection-of-two-arrays.c)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C](./algorithms/c/345.reverse-vowels-of-a-string.c)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[C](./algorithms/c/344.reverse-string.c)|Easy|
