@@ -27,6 +27,7 @@
  * Explanation: 13 = 4 + 9.
  * 
  */
+// 4平方定理
 int numSquares(int n)
 {
     int* dp = (int*)malloc(sizeof(int) * (n + 1));
@@ -35,7 +36,7 @@ int numSquares(int n)
         int min = INT_MAX;
         for (int r = 1; r * r <= i; r++) {
             int t = dp[i - r * r] + 1;
-            printf("[r:%d,t:%d]", r, t);
+            // printf("[r:%d,t:%d]", r, t);
             min = min < t ? min : t;
         }
         dp[i] = min;
