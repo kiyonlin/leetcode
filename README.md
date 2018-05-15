@@ -26,6 +26,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[C](./algorithms/c/337.house-robber-iii.c)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[C](./algorithms/c/330.patching-array.c)|Hard|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[C](./algorithms/c/326.power-of-three.c)|Easy|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[C](./algorithms/c/322.coin-change.c)|Medium|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[C](./algorithms/c/321.create-maximum-number.c)|Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[C](./algorithms/c/316.remove-duplicate-letters.c)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)|[C](./algorithms/c/309.best-time-to-buy-and-sell-stock-with-cooldown.c)|Medium|
