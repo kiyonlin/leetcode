@@ -12,6 +12,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)|[C](./algorithms/c/630.course-schedule-iii.c)|Hard|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)|[C](./algorithms/c/621.task-scheduler.c)|Medium|
 |502|[IPO](https://leetcode.com/problems/ipo/description/)|[C](./algorithms/c/502.ipo.c)|Hard|
+|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)|[C](./algorithms/c/486.predict-the-winner.c)|Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[C](./algorithms/c/474.ones-and-zeroes.c)|Medium|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|[C](./algorithms/c/467.unique-substrings-in-wraparound-string.c)|Medium|
 |464|[Can I Win](https://leetcode.com/problems/can-i-win/description/)|[C](./algorithms/c/464.can-i-win.c)|Medium|
