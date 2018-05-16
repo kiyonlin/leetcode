@@ -60,10 +60,11 @@ int* largestDivisibleSubset(int* nums, int numsSize, int* returnSize)
                 dp[i] = dp[j] + 1, link[i] = j;
 
         if (dp[i] > *returnSize)
-            // 记录最大长度的
+            // 记录最大长度和下标尾
             *returnSize = dp[i], tail = i;
     }
 
+    // 回溯获取结果
     int* result = (int*)malloc(sizeof(int) * (*returnSize));
     int k = 0;
     while (link[tail] != tail) {
