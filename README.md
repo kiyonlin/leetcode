@@ -12,6 +12,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)|[C](./algorithms/c/630.course-schedule-iii.c)|Hard|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)|[C](./algorithms/c/621.task-scheduler.c)|Medium|
 |502|[IPO](https://leetcode.com/problems/ipo/description/)|[C](./algorithms/c/502.ipo.c)|Hard|
+|464|[Can I Win](https://leetcode.com/problems/can-i-win/description/)|[C](./algorithms/c/464.can-i-win.c)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
