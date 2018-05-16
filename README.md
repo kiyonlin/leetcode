@@ -18,6 +18,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
 |402|[Remove K Digitse](https://leetcode.com/problems/remove-k-digits/description/)|[C](./algorithms/c/402.remove-k-digits.c)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C](./algorithms/c/392.is-subsequence.c)|Medium|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[C](./algorithms/c/377.combination-sum-iv.c)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[C](./algorithms/c/376.wiggle-subsequence.c)|Medium|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[C](./algorithms/c/375.guess-number-higher-or-lower-ii.c)|Medium|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)|[C](./algorithms/c/368.largest-divisible-subset.c)|Medium|
