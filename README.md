@@ -15,6 +15,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[C](./algorithms/c/413.arithmetic-slices.c)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
 |402|[Remove K Digitse](https://leetcode.com/problems/remove-k-digits/description/)|[C](./algorithms/c/402.remove-k-digits.c)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C](./algorithms/c/392.is-subsequence.c)|Medium|
