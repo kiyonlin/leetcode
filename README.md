@@ -11,6 +11,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)|[C](./algorithms/c/649.dota2-senate.c)|Medium|
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)|[C](./algorithms/c/630.course-schedule-iii.c)|Hard|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)|[C](./algorithms/c/621.task-scheduler.c)|Medium|
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|[C](./algorithms/c/523.continuous-subarray-sum.c)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|[C](./algorithms/c/516.longest-palindromic-subsequence.c)|Medium|
 |502|[IPO](https://leetcode.com/problems/ipo/description/)|[C](./algorithms/c/502.ipo.c)|Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[C](./algorithms/c/494.target-sum.c)|Medium|
