@@ -45,9 +45,9 @@ int longestPalindromeSubseq(char* s)
     int len = strlen(s);
     if (len == 0)
         return 0;
-    int** dp = (int**)malloc((len + 1) * sizeof(int*));
-    for (int i = 0; i <= len; i++)
-        dp[i] = (int*)malloc((len + 1) * sizeof(int));
+    int** dp = (int**)malloc(len * sizeof(int*));
+    for (int i = 0; i < len; i++)
+        dp[i] = (int*)malloc(len * sizeof(int));
 
     for (int i = len - 1; i >= 0; i--) {
         dp[i][i] = 1;
