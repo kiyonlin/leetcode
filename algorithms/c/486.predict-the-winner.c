@@ -52,16 +52,27 @@
  */
 inline int MAX(int a, int b) { return a > b ? a : b; }
 
-int score(int* nums, int start, int end);
-
 bool PredictTheWinner(int* nums, int numsSize)
 {
     // 使用两个选手的差值做结果
-    return score(nums, 0, numsSize - 1) >= 0;
+    int* dp = (int*)calloc(numsSize, sizeof(int));
+    for (int s = numsSize; s >= 0; s--)
+        for (int e = s + 1; e < numsSize; e++)
+            dp[e] = MAX(nums[s] - dp[e], nums[e] - dp[e - 1]);
+
+    return dp[numsSize - 1] >= 0;
 }
-int score(int* nums, int start, int end)
-{
-    if (start == end)
-        return nums[start];
-    return MAX(nums[start] - score(nums, start + 1, end), nums[end] - score(nums, start, end - 1));
-}
+
+// int score(int* nums, int start, int end);
+
+// bool PredictTheWinner(int* nums, int numsSize)
+// {
+//     // 使用两个选手的差值做结果
+//     return score(nums, 0, numsSize - 1) >= 0;
+// }
+// int score(int* nums, int start, int end)
+// {
+//     if (start == end)
+//         return nums[start];
+//     return MAX(nums[start] - score(nums, start + 1, end), nums[end] - score(nums, start, end - 1));
+// }
