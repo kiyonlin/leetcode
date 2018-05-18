@@ -46,30 +46,24 @@
  */
 bool checkSubarraySum(int* nums, int numsSize, int k)
 {
+    if (k == 0) {
+        for (int i = 0; i < numsSize - 1; i++)
+            if (nums[i] == 0 && nums[i + 1] == 0)
+                return true;
+        return false;
+    }
+
     if (k < 0)
         k = -k;
-    bool* dp = (bool*)calloc(k + 1, sizeof(bool));
-    int sum = 0, k0 = 0;
+    bool* dp = (bool*)calloc(k, sizeof(bool));
+    int sum = 0;
     for (int i = 0; i < numsSize; i++) {
-        sum = sum + nums[i];
-        if (k != 0) {
-            sum %= k;
-            if (dp[sum]
-                // for [1,1] 2
-                || (i != 0 && sum == 0))
-                return true;
-            dp[sum] = true;
-        } else {
-            printf("[%d, %d, %d]", k0, dp[0], sum);
-            if (k0 == 0 && dp[0] == sum)
-                k0++;
-            else if (k0 == 1 && dp[0] == sum)
-                return true;
-            else {
-                dp[0] = sum;
-                k0 = 0;
-            }
-        }
+        sum = (sum + nums[i]) % k;
+        if (dp[sum]
+            // for [1,1] 2
+            || (sum == 0 && i != 0))
+            return true;
+        dp[sum] = true;
     }
     return false;
 }
