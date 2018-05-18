@@ -8,6 +8,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|[C](./algorithms/c/738.monotone-increasing-digits.c)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[C](./algorithms/c/714.best-time-to-buy-and-sell-stock-with-transaction-fee.c)|Medium|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)|[C](./algorithms/c/659.split-array-into-consecutive-subsequences.c)|Medium|
+|650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|[C](./algorithms/c/650.2-keys-keyboard.c)|Medium|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)|[C](./algorithms/c/649.dota2-senate.c)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[C](./algorithms/c/647.palindromic-substrings.c)|Medium|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)|[C](./algorithms/c/646.maximum-length-of-pair-chain.c)|Medium|
