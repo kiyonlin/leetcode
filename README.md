@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)|[C](./algorithms/c/740.delete-and-earn.c)|Medium|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|[C](./algorithms/c/738.monotone-increasing-digits.c)|Medium|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)|[C](./algorithms/c/718.maximum-length-of-repeated-subarray.c)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[C](./algorithms/c/714.best-time-to-buy-and-sell-stock-with-transaction-fee.c)|Medium|
