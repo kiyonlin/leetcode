@@ -7,6 +7,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |---| ----- | -------- | ---------- |
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|[C](./algorithms/c/738.monotone-increasing-digits.c)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[C](./algorithms/c/714.best-time-to-buy-and-sell-stock-with-transaction-fee.c)|Medium|
+|712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)|[C](./algorithms/c/712.minimum-ascii-delete-sum-for-two-strings.c)|Medium|
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)|[C](./algorithms/c/698.partition-to-k-equal-sum-subsets.c)|Medium|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)|[C](./algorithms/c/688.knight-probability-in-chessboard.c)|Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)|[C](./algorithms/c/673.number-of-longest-increasing-subsequence.c)|Medium|
