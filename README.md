@@ -7,6 +7,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |---| ----- | -------- | ---------- |
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|[C](./algorithms/c/738.monotone-increasing-digits.c)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[C](./algorithms/c/714.best-time-to-buy-and-sell-stock-with-transaction-fee.c)|Medium|
+|688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)|[C](./algorithms/c/688.knight-probability-in-chessboard.c)|Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)|[C](./algorithms/c/673.number-of-longest-increasing-subsequence.c)|Medium|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)|[C](./algorithms/c/659.split-array-into-consecutive-subsequences.c)|Medium|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|[C](./algorithms/c/650.2-keys-keyboard.c)|Medium|
