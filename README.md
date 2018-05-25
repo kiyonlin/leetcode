@@ -43,6 +43,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[C](./algorithms/c/375.guess-number-higher-or-lower-ii.c)|Medium|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)|[C](./algorithms/c/368.largest-divisible-subset.c)|Medium|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|[C](./algorithms/c/357.count-numbers-with-unique-digits.c)|Medium|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C](./algorithms/c/350.intersection-of-two-arrays-ii.c)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C](./algorithms/c/349.intersection-of-two-arrays.c)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C](./algorithms/c/345.reverse-vowels-of-a-string.c)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[C](./algorithms/c/344.reverse-string.c)|Easy|
