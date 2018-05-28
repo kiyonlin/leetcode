@@ -41,8 +41,9 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[C](./algorithms/c/377.combination-sum-iv.c)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[C](./algorithms/c/376.wiggle-subsequence.c)|Medium|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[C](./algorithms/c/375.guess-number-higher-or-lower-ii.c)|Medium|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)|[C](./algorithms/c/371.sum-of-two-integers.c)|Easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)|[C](./algorithms/c/368.largest-divisible-subset.c)|Medium|
-|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[C](./algorithms/c/367.valid-perfect-square.c)|Medium|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[C](./algorithms/c/367.valid-perfect-square.c)|Easy|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|[C](./algorithms/c/357.count-numbers-with-unique-digits.c)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C](./algorithms/c/350.intersection-of-two-arrays-ii.c)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C](./algorithms/c/349.intersection-of-two-arrays.c)|Easy|
