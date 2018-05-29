@@ -41,6 +41,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[C](./algorithms/c/377.combination-sum-iv.c)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[C](./algorithms/c/376.wiggle-subsequence.c)|Medium|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[C](./algorithms/c/375.guess-number-higher-or-lower-ii.c)|Medium|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)|[Cpp](./algorithms/cpp/374.guess-number-higher-or-lower.cpp)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)|[C](./algorithms/c/371.sum-of-two-integers.c)|Easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)|[C](./algorithms/c/368.largest-divisible-subset.c)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[C](./algorithms/c/367.valid-perfect-square.c)|Easy|
