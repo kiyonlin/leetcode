@@ -38,6 +38,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
 |402|[Remove K Digitse](https://leetcode.com/problems/remove-k-digits/description/)|[C](./algorithms/c/402.remove-k-digits.c)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C](./algorithms/c/392.is-subsequence.c)|Medium|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[C](./algorithms/c/389.find-the-difference.c)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C](./algorithms/c/387.first-unique-character-in-a-string.c)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[C](./algorithms/c/383.ransom-note.c)|Easy|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[C](./algorithms/c/377.combination-sum-iv.c)|Medium|
