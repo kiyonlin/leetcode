@@ -37,6 +37,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[C](./algorithms/c/413.arithmetic-slices.c)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
 |402|[Remove K Digitse](https://leetcode.com/problems/remove-k-digits/description/)|[C](./algorithms/c/402.remove-k-digits.c)|Medium|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/)|[C](./algorithms/c/401.binary-watch.c)|Easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/)|[C](./algorithms/c/400.nth-digit.c)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C](./algorithms/c/392.is-subsequence.c)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[C](./algorithms/c/389.find-the-difference.c)|Easy|
