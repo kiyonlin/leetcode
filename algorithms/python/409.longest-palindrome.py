@@ -33,6 +33,8 @@
 #
 #
 
+from collections import defaultdict
+
 
 class Solution(object):
     def longestPalindrome(self, s):
@@ -40,17 +42,17 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        t = {}
-        for c in s:
-            t[c] = t.get(c, 0) + 1
+        t = defaultdict(int)
+        for c in list(s):
+            t[c] += 1
         total = 0
         odd = False
-        for v in t.values():
-            if v & 1 == 0:
-                total += v
-            elif not odd:
-                total += v
-                odd = True
+        for c in t:
+            if t[c] % 2 == 0:
+                total += t[c]
             else:
-                total += v - 1
+                total += t[c] - 1
+                odd = True
+        if odd:
+            total += 1
         return total
