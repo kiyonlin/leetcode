@@ -35,6 +35,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[C](./algorithms/c/416.partition-equal-subset-sum.c)|Medium|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[C](./algorithms/c/413.arithmetic-slices.c)|Medium|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)|[Python](./algorithms/python/412.fizz-buzz.py)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)|[Python](./algorithms/python/409.longest-palindrome.py)|Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)|[Python](./algorithms/python/405.convert-a-number-to-hexadecimal.py)|Easy|
