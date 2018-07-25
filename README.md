@@ -36,6 +36,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[C](./algorithms/c/416.partition-equal-subset-sum.c)|Medium|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[C](./algorithms/c/413.arithmetic-slices.c)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C](./algorithms/c/406.queue-reconstruction-by-height.c)|Medium|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)|[Python](./algorithms/python/405.convert-a-number-to-hexadecimal.py)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)|[Python](./algorithms/python/404.sum-of-left-leaves.py)|Easy|
 |402|[Remove K Digitse](https://leetcode.com/problems/remove-k-digits/description/)|[C](./algorithms/c/402.remove-k-digits.c)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/)|[C](./algorithms/c/401.binary-watch.c)|Easy|
