@@ -34,6 +34,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[C](./algorithms/c/416.partition-equal-subset-sum.c)|Medium|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)|[Python](./algorithms/python/414.third-maximum-number.py)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[C](./algorithms/c/413.arithmetic-slices.c)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)|[Python](./algorithms/python/412.fizz-buzz.py)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)|[Python](./algorithms/python/409.longest-palindrome.py)|Easy|
