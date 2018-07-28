@@ -33,6 +33,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
+|427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)|[Python3](./algorithms/python3/427.construct-quad-tree.python3.py)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[C](./algorithms/c/416.partition-equal-subset-sum.c)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/)|[Python](./algorithms/python/415.add-strings.py)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)|[Python](./algorithms/python/414.third-maximum-number.py)|Easy|
