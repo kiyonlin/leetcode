@@ -33,6 +33,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)|[C](./algorithms/c/435.non-overlapping-intervals.c)|Medium|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)|[Python3](./algorithms/python3/434.number-of-segments-in-a-string.python3.py)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Python](./algorithms/python/429.n-ary-tree-level-order-traversal.py)|Easy|
 |427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)|[Python3](./algorithms/python3/427.construct-quad-tree.python3.py)|Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[C](./algorithms/c/416.partition-equal-subset-sum.c)|Medium|
