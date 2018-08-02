@@ -32,6 +32,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |464|[Can I Win](https://leetcode.com/problems/can-i-win/description/)|[C](./algorithms/c/464.can-i-win.c)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
+|443|[String Compression](https://leetcode.com/problems/string-compression/description/)|[Python3](./algorithms/python3/443.string-compression.python3.py)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|[Python3](./algorithms/python3/441.arranging-coins.python3.py)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)|[Python3](./algorithms/python3/438.find-all-anagrams-in-a-string.python3.py)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)|[Python3](./algorithms/python3/437.path-sum-iii.python3.py)|Easy|
