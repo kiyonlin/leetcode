@@ -31,6 +31,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|[C](./algorithms/c/467.unique-substrings-in-wraparound-string.c)|Medium|
 |464|[Can I Win](https://leetcode.com/problems/can-i-win/description/)|[C](./algorithms/c/464.can-i-win.c)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
+|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)|[Rust](./algorithms/rust/453.minimum-moves-to-equal-array-elements.rs)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C](./algorithms/c/452.minimum-number-of-arrows-to-burst-balloons.c)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[Rust](./algorithms/rust/448.find-all-numbers-disappeared-in-an-array.rs)|Easy|
 |447|[String Compression](https://leetcode.com/problems/number-of-boomerangs/description/)|[Python3](./algorithms/python3/447.number-of-boomerangs.python3.py)|Easy|
