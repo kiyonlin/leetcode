@@ -30,6 +30,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[C](./algorithms/c/474.ones-and-zeroes.c)|Medium|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|[C](./algorithms/c/467.unique-substrings-in-wraparound-string.c)|Medium|
 |464|[Can I Win](https://leetcode.com/problems/can-i-win/description/)|[C](./algorithms/c/464.can-i-win.c)|Medium|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Rust](./algorithms/rust/459.repeated-substring-pattern.rs)|Easy|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/)|[Rust](./algorithms/rust/458.poor-pigs.rs)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[C](./algorithms/c/455.assign-cookies.c)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)|[Rust](./algorithms/rust/453.minimum-moves-to-equal-array-elements.rs)|Easy|
