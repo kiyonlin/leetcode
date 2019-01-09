@@ -30,6 +30,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[C](./algorithms/c/474.ones-and-zeroes.c)|Medium|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|[C](./algorithms/c/467.unique-substrings-in-wraparound-string.c)|Medium|
 |464|[Can I Win](https://leetcode.com/problems/can-i-win/description/)|[C](./algorithms/c/464.can-i-win.c)|Medium|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)|[Rust](./algorithms/rust/463.island-perimeter.rs)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Rust](./algorithms/rust/461.hamming-distance.rs)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Rust](./algorithms/rust/459.repeated-substring-pattern.rs)|Easy|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/)|[Rust](./algorithms/rust/458.poor-pigs.rs)|Easy|
