@@ -62,27 +62,7 @@
 # @param {Integer} k
 # @return {String}
 def license_key_formatting(s, k)
-  # 一行
-  # s.upcase.tr('-', '').reverse.scan(/.{1,#{k}}/).join('-').reverse
-  s.delete! '-'
-  len = s.length
-  head = len % k
-  step = len / k
-
-  return s if step == 0
-
-  result = ''
-  if head > 0
-    result << s[0, head] << '-'
-  end
-
-  step.times do |i|
-    result << s[head + i * k, k]
-    if i < step - 1
-      result << '-'
-    end
-  end
-  result.upcase
+  s.tr('-', '').reverse.scan(/.{1,#{k}}/).join('-').reverse.upcase
 end
 
 if __FILE__ == $0
