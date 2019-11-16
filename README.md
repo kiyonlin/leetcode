@@ -25,6 +25,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|[C](./algorithms/c/523.continuous-subarray-sum.c)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|[C](./algorithms/c/516.longest-palindromic-subsequence.c)|Medium|
 |502|[IPO](https://leetcode.com/problems/ipo/description/)|[C](./algorithms/c/502.ipo.c)|Hard|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|[Golang](./algorithms/golang/496.next-greater-element-i.go)|Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[C](./algorithms/c/494.target-sum.c)|Medium|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|[Golang](./algorithms/golang/492.construct-the-rectangle.go)|Easy|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)|[C](./algorithms/c/486.predict-the-winner.c)|Medium|
