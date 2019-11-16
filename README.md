@@ -26,6 +26,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|[C](./algorithms/c/516.longest-palindromic-subsequence.c)|Medium|
 |502|[IPO](https://leetcode.com/problems/ipo/description/)|[C](./algorithms/c/502.ipo.c)|Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[C](./algorithms/c/494.target-sum.c)|Medium|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|[Golang](./algorithms/golang/492.construct-the-rectangle.go)|Easy|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)|[C](./algorithms/c/486.predict-the-winner.c)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)|[Golang](./algorithms/golang/485.max-consecutive-ones.go)|Easy|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)|[Ruby](./algorithms/ruby/482.license-key-formatting.rb)|Easy|
