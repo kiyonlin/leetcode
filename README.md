@@ -24,6 +24,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/)|[C](./algorithms/c/576.out-of-boundary-paths.c)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|[C](./algorithms/c/523.continuous-subarray-sum.c)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|[C](./algorithms/c/516.longest-palindromic-subsequence.c)|Medium|
+|504|[Base 7](https://leetcode.com/problems/base-7/description/)|[Golang](./algorithms/golang/504.base-7.go)|Easy|
 |502|[IPO](https://leetcode.com/problems/ipo/description/)|[C](./algorithms/c/502.ipo.c)|Hard|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)|[Golang](./algorithms/golang/501.find-mode-in-binary-search-tree.go)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)|[Golang](./algorithms/golang/500.keyboard-row.go)|Easy|
