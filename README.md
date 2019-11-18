@@ -23,6 +23,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)|[C](./algorithms/c/621.task-scheduler.c)|Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/)|[C](./algorithms/c/576.out-of-boundary-paths.c)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|[C](./algorithms/c/523.continuous-subarray-sum.c)|Medium|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/)|[Golang](./algorithms/golang/520.detect-capital.go)|Easy|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|[C](./algorithms/c/516.longest-palindromic-subsequence.c)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)|[Golang](./algorithms/golang/509.fibonacci-number.go)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/)|[Golang](./algorithms/golang/507.perfect-number.go)|Easy|
