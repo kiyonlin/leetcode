@@ -181,6 +181,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C](./algorithms/c/026.remove-duplicates-from-sorted-array.c)|Easy|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C](./algorithms/c/021.merge-two-sorted-lists.c)|Easy|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[C](./algorithms/c/020.valid-parentheses.c)|Easy|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/)|[Golang](./algorithms/golang/15.3sum.go)|Medium|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[C](./algorithms/c/014.longest-common-prefix.c)|Easy|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[C](./algorithms/c/013.roman-to-integer.c)|Easy|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[C](./algorithms/c/012.integer-to-roman.c)|Medium|
