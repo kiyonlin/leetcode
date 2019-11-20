@@ -179,6 +179,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C](./algorithms/c/028.implement-strstr.c)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[C](./algorithms/c/027.remove-element.c)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C](./algorithms/c/026.remove-duplicates-from-sorted-array.c)|Easy|
+|024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Golang](./algorithms/golang/24.swap-nodes-in-pairs.go)|Medium|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Golang](./algorithms/golang/22.generate-parentheses.go)|Medium|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C](./algorithms/c/021.merge-two-sorted-lists.c)|Easy|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[C](./algorithms/c/020.valid-parentheses.c)|Easy|
