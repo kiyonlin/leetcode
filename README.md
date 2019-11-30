@@ -176,6 +176,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[C](./algorithms/c/044.wildcard-matching.c)|Hard|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C](./algorithms/c/038.count-and-say.c)|Easy|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](./algorithms/c/035.search-insert-position.c)|Easy|
+|034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Golang](./algorithms/golang/34.find-first-and-last-position-of-element-in-sorted-array.go)|Medium|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Golang](./algorithms/golang/33.search-in-rotated-sorted-array.go)|Medium|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Golang](./algorithms/golang/32.longest-valid-parentheses.go)|Hard|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Golang](./algorithms/golang/31.next-permutation.go)|Medium|
