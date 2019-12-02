@@ -174,9 +174,10 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C](./algorithms/c/045.jump-game-ii.c)|Hard|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[C](./algorithms/c/044.wildcard-matching.c)|Hard|
+|039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Golang](./algorithms/golang/39.combination-sum.go)|Medium|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C](./algorithms/c/038.count-and-say.c)|Easy|
-|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](./algorithms/c/035.search-insert-position.c)|Easy|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Golang](./algorithms/golang/36.valid-sudoku.go)|Medium|
+|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](./algorithms/c/035.search-insert-position.c)|Easy|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Golang](./algorithms/golang/34.find-first-and-last-position-of-element-in-sorted-array.go)|Medium|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Golang](./algorithms/golang/33.search-in-rotated-sorted-array.go)|Medium|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Golang](./algorithms/golang/32.longest-valid-parentheses.go)|Hard|
