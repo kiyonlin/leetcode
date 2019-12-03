@@ -174,6 +174,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C](./algorithms/c/045.jump-game-ii.c)|Hard|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[C](./algorithms/c/044.wildcard-matching.c)|Hard|
+|043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Golang](./algorithms/golang/43.multiply-strings.go)|Medium|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Golang](./algorithms/golang/40.combination-sum-ii.go)|Medium|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Golang](./algorithms/golang/39.combination-sum.go)|Medium|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C](./algorithms/c/038.count-and-say.c)|Easy|
