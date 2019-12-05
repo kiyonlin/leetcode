@@ -172,6 +172,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C](./algorithms/c/058.length-of-last-word.c)|Easy|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C](./algorithms/c/055.jump-game.c)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
+|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Golang](./algorithms/golang/50.powx-n.go)|Medium|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Golang](./algorithms/golang/49.group-anagrams.go)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Golang](./algorithms/golang/48.rotate-image.go)|Medium|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Golang](./algorithms/golang/47.permutations-ii.go)|Medium|
