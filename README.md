@@ -171,6 +171,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C](./algorithms/c/062.unique-paths.c)|Easy|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[Golang](./algorithms/golang/59.spiral-matrix-ii.go)|Medium|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C](./algorithms/c/058.length-of-last-word.c)|Easy|
+|056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Golang](./algorithms/golang/56.merge-intervals.go)|Medium|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C](./algorithms/c/055.jump-game.c)|Medium|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Golang](./algorithms/golang/54.spiral-matrix.go)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C](./algorithms/c/053.maximum-subarray.c)|Easy|
