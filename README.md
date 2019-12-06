@@ -161,6 +161,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[C](./algorithms/c/091.decode-ways.c)|Medium|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[C](./algorithms/c/088.merge-sorted-array.c)|Easy|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C](./algorithms/c/083.remove-duplicates-from-sorted-list.c)|Easy|
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Golang](./algorithms/golang/73.set-matrix-zeroes.go)|Medium|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|[C](./algorithms/c/072.edit-distance.c)|Easy|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[Golang](./algorithms/golang/71.simplify-path.go)|Medium|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[C](./algorithms/c/070.climbing-stairs.c)|Easy|
