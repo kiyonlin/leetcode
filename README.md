@@ -161,6 +161,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[C](./algorithms/c/091.decode-ways.c)|Medium|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[C](./algorithms/c/088.merge-sorted-array.c)|Easy|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C](./algorithms/c/083.remove-duplicates-from-sorted-list.c)|Easy|
+|078|[Subsets](https://leetcode.com/problems/subsets/description/)|[Golang](./algorithms/golang/78.subsets.go)|Medium|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/)|[Golang](./algorithms/golang/77.combinations.go)|Medium|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Golang](./algorithms/golang/75.sort-colors.go)|Medium|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Golang](./algorithms/golang/74.search-a-2d-matrix.go)|Medium|
