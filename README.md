@@ -5,6 +5,7 @@ Thanks to [leetcode](https://leetcode.com) and [leetcode-cli](https://github.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1622|[Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)|[Golang](./algorithms/golang/1622.fancy-sequence.go)|Hard|
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/)|[Golang](./algorithms/golang/820.short-encoding-of-words.go)|Medium|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)|[C](./algorithms/c/740.delete-and-earn.c)|Medium|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|[C](./algorithms/c/738.monotone-increasing-digits.c)|Medium|
